@@ -32,7 +32,7 @@ skill_gap_mapper/
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/skill-gap-mapper.git
+git clone [https://github.com/yourusername/skill-gap-mapper.git](https://github.com/codebyjanvi/skill-gap-mapper/tree/main)
 cd skill-gap-mapper
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
